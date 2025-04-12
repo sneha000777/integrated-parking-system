@@ -1,0 +1,5 @@
+train: /content/abukidataset/train/images
+val: /content/abukidataset/valid/images
+
+nc: 2
+names: ['space-empty', 'space-occupied']
